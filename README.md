@@ -56,4 +56,3 @@ Este projeto foi desenvolvido com foco educacional, visando reforçar conceitos 
 
 Thasso Felipe  
 https://github.com/Phel-lip
-1. Clone o repositório:
