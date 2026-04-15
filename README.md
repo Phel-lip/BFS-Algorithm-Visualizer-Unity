@@ -44,9 +44,11 @@ Neste projeto, o algoritmo é aplicado em um ambiente visual onde é possível a
 
 ## Como Executar Localmente
 
+```bash
 1. Clone o repositório: git clone https://github.com/Phel-lip/Projeto-BFSIA.git
 2. Abra o projeto no Unity Hub
 3. Execute a cena principal no editor
+```
 
 ## Objetivo
 
