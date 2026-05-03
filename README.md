@@ -11,7 +11,7 @@ O objetivo é demonstrar de forma visual como o algoritmo percorre um grafo ou g
 ## Demonstração
 
 Acesse a versão online:
-https://phel-lip.github.io/Projeto-BFSIA/
+[https://phel-lip.github.io/Projeto-BFSIA/](https://phel-lip.github.io/BFS-Algorithm-Visualizer-Unity/)
 
 ## Sobre o Projeto
 
