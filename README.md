@@ -1,8 +1,8 @@
 # BFS Algorithm Visualizer (Unity)
 
-Aplicação interativa desenvolvida durante minha formação em Jogos Digitais para visualizar o funcionamento do algoritmo Breadth-First Search (BFS) em um ambiente gráfico utilizando Unity e C#.
+Projeto desenvolvido em equipe utilizando Unity e C# para visualizar, de forma interativa, o funcionamento do algoritmo Breadth-First Search (BFS).
 
-Este projeto representa uma das bases da minha trajetória como desenvolvedor, explorando conceitos de algoritmos, lógica de programação e visualização interativa antes da minha transição para o desenvolvimento Front-End.
+Além de reforçar conceitos de algoritmos e estruturas de dados, este projeto marcou uma etapa importante da minha formação em Jogos Digitais e contribuiu para o desenvolvimento do meu raciocínio lógico, base que posteriormente apliquei no desenvolvimento Front-End.
 
 ## Preview
 
@@ -53,9 +53,9 @@ git clone https://github.com/Phel-lip/BFS-Algorithm-Visualizer-Unity.git
 
 ## Objetivo
 
-Este projeto foi desenvolvido com foco educacional para reforçar conceitos de algoritmos e estruturas de dados por meio de uma visualização interativa.
+Este projeto foi desenvolvido com foco educacional para representar visualmente o funcionamento do algoritmo Breadth-First Search (BFS).
 
-Além do estudo do algoritmo BFS, a experiência contribuiu para o desenvolvimento de raciocínio lógico, programação em C# e construção de aplicações gráficas, conhecimentos que posteriormente serviram como base para minha transição ao desenvolvimento Front-End.
+Além do aprendizado sobre algoritmos e estruturas de dados, a experiência em desenvolvimento colaborativo reforçou habilidades de organização, comunicação e trabalho em equipe durante a construção da aplicação.
 
 ## Autor
 
